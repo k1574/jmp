@@ -1,0 +1,7 @@
+# jmp
+
+JSON messaging protocol.
+The idea is to use JSON to store messages for any usage.
+
+As a separator can be used literal \r\n sequence cause JSON does not contain it.
+
